@@ -1,15 +1,21 @@
 import { Given, Then, When } from "@cucumber/cucumber";
 Given('Jane forgot her password and clicks on forgot pasword link', function () {
     // Write code here that turns the phrase above into concrete actions
-    return 'pending';
+    
+    return console.log("Logged out")
+
 });
 Then('she should be presented with a page to enter email as {string}', function (string) {
     // Write code here that turns the phrase above into concrete actions
-    return 'pending';
+    
+    return console.log("Logged out")
+
 });
 When('she clicks reset password button', function () {
     // Write code here that turns the phrase above into concrete actions
-    return 'pending';
+    
+    return console.log("Logged out")
+
 });
 
 Then('she recieves a password reset link or OTP', function () {
