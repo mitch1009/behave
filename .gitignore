@@ -1,5 +1,10 @@
 node_modules
 /test-results/
 /playwright-report/
+*.cache
+*.log
 /playwright/.cache/
 dist
+README.pdf
+behave
+.behave

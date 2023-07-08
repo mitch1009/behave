@@ -1,6 +1,6 @@
 Feature: Ticket System
 
-    Jude needs to create a ticket to get help from afrihost
+    Jude needs to create a ticket to get help from Guru website
 
 Scenario: Create Initial Ticket
 
